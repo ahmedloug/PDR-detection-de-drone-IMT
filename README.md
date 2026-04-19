@@ -14,7 +14,7 @@ Projet de detection de drones sur le dataset FRED (Florence RGB-Event Drone Data
 - `yolov8n_finetuned_fred.ipynb`
 	- Baseline YOLOv8n fine-tune pour comparer ANN vs SNN.
 
-## Ce qu'on fait
+## Ce qu'on a fait
 
 1. Preparation des donnees FRED en format YOLO (`images/` + `labels/`).
 2. Entrainement de plusieurs modeles (SpikeYOLO, SNN-YOLO custom, YOLOv8n).
